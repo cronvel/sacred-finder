@@ -1,0 +1,42 @@
+{
+  "name": "sacred-finder",
+  "version": "0.0.1",
+  "description": "Sacred finder.",
+  "main": "lib/sacred.js",
+  "engines": {
+    "node": ">=4.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "compute-gcd": "^1.2.0",
+    "get-primes": "^1.0.3",
+    "math-kit": "^0.3.5"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/sacred-finder.git"
+  },
+  "keywords": [
+    "sacred"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/sacred-finder/issues"
+  },
+  "copyright": {
+    "title": "Sacred Finder",
+    "years": [
+      2016
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}

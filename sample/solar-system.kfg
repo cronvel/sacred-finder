@@ -1,0 +1,49 @@
+
+# http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html
+# radius are all volumetric mean radius
+
+Venus:
+	radius: 6051.8 km
+	volume: 9.2843e11 km3
+	mass: 4.8685e24 kg
+	sideral-rotation: -243.023 d
+	orbital-circumference: 6.79888899e8 km
+	sideral-orbital: 224.701 d
+	synodic-orbital: 583.92 d
+	apocenter: 1.08942109e8 km
+	pericenter: 1.07476259e8 km
+
+Earth:
+	radius: 6371 km
+	volume: 1.08321e12 km3
+	mass: 5.9724e24 kg
+	sideral-rotation: 0.99726949 d
+	sideral-orbital: 365.256363 d
+	#synodic-orbital: 365.256363 d
+	orbital-circumference: 9.398856293e8 km
+	apocenter: 1.52097701e8 km
+	pericenter: 1.47098074e8 km
+
+Moon:
+	radius: 1737.4 km
+	volume: 2.1968e10 km3
+	mass: 7.346e22 kg
+	sideral-rotation: 655.728 h
+	#synodic-rotation: Infinity
+	sideral-orbital: 27.3217 d
+	synodic-orbital: 29.53 d
+	apocenter: 4.055e5 km
+	pericenter: 3.633e5 km
+
+Mars:
+	radius: 3389.5 km
+	volume: 1.6318e11 km3
+	mass: 6.4185e23 kg
+	sideral-rotation: 1.025957 d
+	sideral-orbital: 686.9601 d
+	synodic-orbital: 779.9643 d
+	orbital-circumference: 1.429038772e9 km
+	apocenter: 2.49228730e8 km
+	pericenter: 2.27936637e8 km
+
+
