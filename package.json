@@ -2,7 +2,7 @@
   "name": "sacred-finder",
   "version": "0.0.1",
   "description": "Sacred finder.",
-  "main": "lib/sacred.js",
+  "main": "lib/Sacred.js",
   "engines": {
     "node": ">=4.5.0"
   },
@@ -12,7 +12,10 @@
   "dependencies": {
     "compute-gcd": "^1.2.0",
     "get-primes": "^1.0.3",
-    "math-kit": "^0.3.5"
+    "kung-fig": "^0.35.1",
+    "math-kit": "^0.3.5",
+    "minimist": "^1.2.0",
+    "terminal-kit": "^0.25.4"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
