@@ -4,10 +4,9 @@
 
 Early alpha.
 
-It searches for mysterious correlation.
+It searches for mysterious correlations.
 
-Example:
+Examples:
 
-```
-sacred sample/solar-system.kfg ratio radius
-```
+* `sacred sample/solar-system.kfg ratio radius`
+* `sacred sample/solar-system.kfg ratio -`
