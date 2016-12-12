@@ -4,7 +4,7 @@
 
 Early alpha.
 
-It search for mysterious correlation.
+It searches for mysterious correlation.
 
 Example:
 
