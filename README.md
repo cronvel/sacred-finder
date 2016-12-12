@@ -4,9 +4,10 @@
 
 Early alpha.
 
-# TOC
-   - [...](#)
-<a name=""></a>
- 
-<a name=""></a>
-# ...
+It search for mysterious correlation.
+
+Example:
+
+```
+sacred sample/solar-system.kfg ratio radius
+```
