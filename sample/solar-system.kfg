@@ -1,6 +1,13 @@
 
-# http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html
-# radius are all volumetric mean radius
+# From wikipedia fr
+
+Sun:
+	equatorial-radius: $= 696342 km
+	#polar-radius: $=  km
+	#volumetric-radius: $=  km
+	volume: $= 1.412e18 km3
+	mass: $= 1.9891e30 kg
+
 
 Mercury:
 	equatorial-radius: $= 2439.7 km
@@ -99,5 +106,33 @@ Saturne:
 	semi-major-axis: $= 1.429394069e9 km
 	pericenter: $= 1.349467375e9 km
 	apocenter: $= 1.503983449e9 km
+
+Uranus:
+	equatorial-radius: $= 25559 km
+	polar-radius: $= 24973 km
+	volumetric-radius: $= 25362 km
+	volume: $= 6.83344e13 km3
+	mass: $= 8.6810e25 kg
+	#sideral-rotation: $= 
+	sideral-orbital: $= 30687.15 d
+	synodic-orbital: $= 369.66 d
+	orbital-circumference: $= 1.8026802831e10 km
+	semi-major-axis: $= 2.870658186e9 km
+	pericenter: $= 2.734998229e9 km
+	apocenter: $= 3.006318143e9 km
+
+Neptune:
+	equatorial-radius: $= 24764 km
+	polar-radius: $= 24341 km
+	volumetric-radius: $= 24622 km
+	volume: $= 6.2526e13 km3
+	mass: $= 1.0243e26 kg
+	#sideral-rotation: $= 
+	sideral-orbital: $= 60224.9036 d
+	synodic-orbital: $= 367.4857 d
+	orbital-circumference: $= 2.8295449561e10 km
+	semi-major-axis: $= 4.503443661e9 km
+	pericenter: $= 4.452940833e9 km
+	apocenter: $= 4.553946490e9 km
 
 

@@ -1,6 +1,6 @@
 {
   "name": "sacred-finder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sacred finder.",
   "main": "lib/Sacred.js",
   "engines": {
