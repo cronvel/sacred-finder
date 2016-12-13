@@ -1,6 +1,6 @@
 {
   "name": "sacred-finder",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Sacred finder.",
   "main": "lib/Sacred.js",
   "engines": {
@@ -15,6 +15,7 @@
     "kung-fig": "^0.35.2",
     "math-kit": "^0.3.8",
     "minimist": "^1.2.0",
+    "nextgen-events": "^0.9.8",
     "terminal-kit": "^0.25.4"
   },
   "devDependencies": {
