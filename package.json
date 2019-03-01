@@ -1,10 +1,13 @@
 {
   "name": "sacred-finder",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Sacred finder.",
   "main": "lib/Sacred.js",
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=8.0.0"
+  },
+  "bin": {
+    "sacred-finder": "./bin/sacred-finder"
   },
   "directories": {
     "test": "test"
@@ -17,7 +20,8 @@
     "minimist": "^1.2.0",
     "nextgen-events": "^1.1.0",
     "string-kit": "^0.9.1",
-    "terminal-kit": "^1.27.0"
+    "terminal-kit": "^1.27.0",
+    "utterminal": "^0.5.30"
   },
   "devDependencies": {},
   "scripts": {
@@ -38,7 +42,8 @@
   "copyright": {
     "title": "Sacred Finder",
     "years": [
-      2016
+      2016,
+      2019
     ],
     "owner": "Cédric Ronvel"
   }
